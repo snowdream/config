@@ -1,0 +1,28 @@
+[user]
+	name = snowdream
+	email = yanghui1986527@gmail.com
+	signingkey = 917E0B99
+[core]
+	autocrlf = input
+	editor = vim
+[gui]
+    encoding = utf-8
+[i18n]
+    commitencoding = utf-8
+    logoutputencoding = utf-8
+[diff]
+	tool = bc3
+[difftool "bc3"]
+    trustExitCode = true
+[difftool]
+    prompt = false
+[merge]
+	tool = bc3
+[mergetool  "bc3"]
+    trustExitCode = true
+[mergetool]
+    prompt = false
+[help]
+	autocorrect = 1
+[push]
+	default = simple
