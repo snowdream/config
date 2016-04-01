@@ -5,6 +5,9 @@
 
 *.gstatic.com
 *.google.com
+*.ggpht.com
+*.googleapis.com
+*.googlecode.com
 *.googleusercontent.com
 *.doubleclick.net
 *.disqus.com
@@ -90,9 +93,6 @@
 *.yunpan.cn
 *.phcdn.net
 *.nodejs.org
-*.google.com.*
-*.googleapis.com
-*.googlecode.com
 *.sourceforge.net
 *.sf.net
 *.tweetdeck.com
