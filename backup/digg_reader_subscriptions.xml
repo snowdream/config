@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <opml version="1.0">
 <head>
-<title>杨辉 subscriptions in Digg Reader</title>
+<title>snowdream subscriptions in Digg Reader</title>
 </head>
 <body>
+<outline title="前端开发" text="前端开发">
+<outline text="Taobao Fed | 淘宝前端开发团队" title="Taobao Fed | 淘宝前端开发团队" type="rss" xmlUrl="http://taobaofed.org/atom.xml" htmlUrl="http://taobaofed.org/" />
+<outline text="轩枫阁 – 前端开发 | web前端技术博客" title="轩枫阁 – 前端开发 | web前端技术博客" type="rss" xmlUrl="http://www.xuanfengge.com/feed" htmlUrl="http://www.xuanfengge.com" />
+<outline text="Danial Khosravi's Blog" title="Danial Khosravi's Blog" type="rss" xmlUrl="http://danialk.github.io/atom.xml" htmlUrl="" />
+<outline text="草依山的Javascript世界" title="草依山的Javascript世界" type="rss" xmlUrl="http://jser.me/rss" htmlUrl="http://jser.me" />
+<outline text="粉丝日志" title="粉丝日志" type="rss" xmlUrl="http://blog.fens.me/feed/" htmlUrl="http://blog.fens.me" />
+<outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/" />
+</outline>
 <outline title="生活资讯" text="生活资讯">
-<outline text="海淘" title="海淘" type="rss" xmlUrl="http://www.newsmth.net/nForum/rss/board-HaiTao" htmlUrl="http://www.newsmth.net/nForum/board/HaiTao" />
 </outline>
 <outline title="系统运维" text="系统运维">
 <outline text="Debian GNU/Linux System Administration Resources" title="Debian GNU/Linux System Administration Resources" type="rss" xmlUrl="http://www.debian-administration.org/articles.rdf" htmlUrl="http://www.debian-administration.org/" />
 </outline>
-<outline title="Spring" text="Spring">
-<outline text="Spring Engineering" title="Spring Engineering" type="rss" xmlUrl="http://spring.io/blog/category/engineering.atom" htmlUrl="http://spring.io/blog/category/engineering" />
-</outline>
 <outline title="snowdream" text="snowdream">
-<outline text="snowdream" title="snowdream" type="rss" xmlUrl="http://snowdream.github.io/blog/rss.xml" htmlUrl="http://snowdream.github.io/blog" />
+<outline text="snowdream" title="snowdream" type="rss" xmlUrl="http://snowdream.github.io/blog/atom.xml" htmlUrl="http://snowdream.github.io/" />
 </outline>
 <outline title="开发资讯" text="开发资讯">
+<outline text="技术小黑屋" title="技术小黑屋" type="rss" xmlUrl="http://droidyue.com/rss.xml" htmlUrl="http://droidyue.com/" />
+<outline text="Chrome插件/扩展最新软件 - 开源中国社区" title="Chrome插件/扩展最新软件 - 开源中国社区" type="rss" xmlUrl="http://www.oschina.net/project/rss?tag=214" htmlUrl="http://www.oschina.net/project/tag/null" />
+<outline text="开源中国社区最新新闻" title="开源中国社区最新新闻" type="rss" xmlUrl="http://www.oschina.net/news/rss?show=industry" htmlUrl="http://www.oschina.net/?from=rss" />
 <outline text="Xeiam's Blog" title="Xeiam's Blog" type="rss" xmlUrl="http://blog.xeiam.com/feeds/posts/default" htmlUrl="http://blog.xeiam.com/" />
 <outline text="marek sebera's personal » Feed" title="marek sebera's personal » Feed" type="rss" xmlUrl="http://www.msebera.cz/en/feed/" htmlUrl="http://www.msebera.cz" />
 <outline text="If Not True Then False's Facebook Wall" title="If Not True Then False's Facebook Wall" type="rss" xmlUrl="http://www.if-not-true-then-false.com/feed/" htmlUrl="http://www.facebook.com/" />
 <outline text="Apache" title="Apache" type="rss" xmlUrl="http://projects.apache.org/feeds/rss.xml" htmlUrl="http://projects.apache.org/" />
 <outline text="Chris Banes" title="Chris Banes" type="rss" xmlUrl="http://chris.banes.me/atom.xml" htmlUrl="http://chris.banes.me/" />
-<outline text="开源中国社区最新新闻" title="开源中国社区最新新闻" type="rss" xmlUrl="http://www.oschina.net/news/rss" htmlUrl="http://www.oschina.net/?from=rss" />
-<outline text="开源中国社区最新软件" title="开源中国社区最新软件" type="rss" xmlUrl="http://www.oschina.net/project/rss" htmlUrl="http://www.oschina.net/?from=rss" />
 <outline text="Juven Xu" title="Juven Xu" type="rss" xmlUrl="http://www.juvenxu.com/feed/" htmlUrl="http://www.juvenxu.com" />
 <outline text="Free Online Resources For Developers, Designers and Photographers @Smashing Hub" title="Free Online Resources For Developers, Designers and Photographers @Smashing Hub" type="rss" xmlUrl="http://smashinghub.com/feed" htmlUrl="http://smashinghub.com" />
 <outline text="Github" title="Github" type="rss" xmlUrl="https://github.com/snowdream.private.atom?token=3548602ae468501b1f59ef70f9645f7c" htmlUrl="https://github.com/snowdream" />
 </outline>
 <outline title="软件资讯" text="软件资讯">
-<outline text="36氪" title="36氪" type="rss" xmlUrl="http://www.36kr.com/feed" htmlUrl="http://www.36kr.com/" />
-<outline text="谷奥" title="谷奥" type="rss" xmlUrl="http://google.org.cn/feed" htmlUrl="http://www.guao.hk" />
+<outline text="36氪" title="36氪" type="rss" xmlUrl="http://36kr.feedsportal.com/c/33346/f/566026/index.rss" htmlUrl="http://www.36kr.com" />
+<outline text="NEXT" title="NEXT" type="rss" xmlUrl="http://next.36kr.com/feed" htmlUrl="http://next.36kr.com" />
+<outline text="异次元软件世界" title="异次元软件世界" type="rss" xmlUrl="http://feed.iplaysoft.com/" htmlUrl="http://www.iplaysoft.com" />
+<outline text="Chrome迷" title="Chrome迷" type="rss" xmlUrl="http://www.chromi.org/feed" htmlUrl="http://www.chromi.org" />
 </outline>
 <outline title="项目资讯" text="项目资讯">
-<outline text="手机开发" title="手机开发" type="rss" xmlUrl="http://www.newsmth.net/nForum/rss/board-MobileDev" htmlUrl="http://www.newsmth.net/nForum/board/MobileDev" />
-<outline text="IT类兼职" title="IT类兼职" type="rss" xmlUrl="http://www.newsmth.net/nForum/rss/board-ITjob" htmlUrl="http://www.newsmth.net/nForum/board/ITjob" />
 </outline>
 <outline title="新闻资讯" text="新闻资讯">
 </outline>
@@ -48,10 +53,15 @@
 <outline title="QT4" text="QT4">
 <outline text="CuteQt Blog" title="CuteQt Blog" type="rss" xmlUrl="http://www.cuteqt.com/blog/?feed=rss2" htmlUrl="http://www.cuteqt.org/blog" />
 <outline text="Mr-J'Blog - Embedded System" title="Mr-J'Blog - Embedded System" type="rss" xmlUrl="http://mr-j.cn/feed.asp?cateID=7" htmlUrl="http://mr-j.cn/" />
-<outline text="Qt中文论坛" title="Qt中文论坛" type="rss" xmlUrl="http://www.qtcn.org/bbs/rss.php?fid=17" htmlUrl="http://www.qtcn.org/bbs" />
 </outline>
 <outline title="Android" text="Android">
+<outline text="Piotr Wittchen" title="Piotr Wittchen" type="rss" xmlUrl="http://blog.wittchen.biz.pl/feed/" htmlUrl="http://blog.wittchen.biz.pl" />
+<outline text="Keegan小钢" title="Keegan小钢" type="rss" xmlUrl="http://keeganlee.me/feed" htmlUrl="http://keeganlee.me/" />
+<outline text="MyArrow的专栏" title="MyArrow的专栏" type="rss" xmlUrl="http://blog.csdn.net/MyArrow/rss/list" htmlUrl="http://blog.csdn.net/myarrow" />
 <outline text="androidsmith » Feed" title="androidsmith » Feed" type="rss" xmlUrl="http://androidsmith.com/feed/" htmlUrl="http://androidsmith.com" />
+<outline text="Android Performance" title="Android Performance" type="rss" xmlUrl="http://androidperformance.com/atom.xml" htmlUrl="http://androidperformance.com/" />
+<outline text="RincLiu.com" title="RincLiu.com" type="rss" xmlUrl="http://rincliu.com/atom.xml" htmlUrl="http://rincliu.com/" />
+<outline text="CSDN博客专栏 - 老罗的Android之旅" title="CSDN博客专栏 - 老罗的Android之旅" type="rss" xmlUrl="http://blog.csdn.net/rss/columnarticle.html?alias=androidluo&amp;content=0" htmlUrl="http://blog.csdn.net" />
 <outline text="傲慢的上校的专栏" title="傲慢的上校的专栏" type="rss" xmlUrl="http://blog.csdn.net/lilu_leo/rss/list" htmlUrl="http://blog.csdn.net/aomandeshangxiao" />
 <outline text="::: 移动互联网时代开发者 :::" title="::: 移动互联网时代开发者 :::" type="rss" xmlUrl="http://blog.csdn.net/arui319/rss/list" htmlUrl="http://blog.csdn.net/arui319" />
 <outline text="Android Design Patterns" title="Android Design Patterns" type="rss" xmlUrl="http://feeds.feedburner.com/androiddesignpatterns" htmlUrl="" />
@@ -62,12 +72,6 @@
 <outline text="引路蜂移动软件" title="引路蜂移动软件" type="rss" xmlUrl="http://blog.csdn.net/mapdigit/rss/list" htmlUrl="http://blog.csdn.net/mapdigit" />
 <outline text="老罗的Android之旅" title="老罗的Android之旅" type="rss" xmlUrl="http://blog.csdn.net/Luoshengyang/rss/list" htmlUrl="http://blog.csdn.net/luoshengyang" />
 <outline text="萝卜白菜的博客" title="萝卜白菜的博客" type="rss" xmlUrl="http://orgcent.com/feed/" htmlUrl="http://orgcent.com" />
-<outline text="Android 代码仓库" title="Android 代码仓库" type="rss" xmlUrl="http://www.eoeandroid.com/forum.php?mod=rss&amp;fid=23&amp;auth=e373pfHSb%2BOPkwtoLLzYIhrVixhHiO38SkvxyUuzEmU5jF7121QzL8jegUidOA" htmlUrl="http://www.eoeandroid.com/forum-23-1.html" />
-<outline text="Android 实例教程" title="Android 实例教程" type="rss" xmlUrl="http://www.eoeandroid.com/forum.php?mod=rss&amp;fid=27&amp;auth=2a9fVBtvIh5Cv018WhzbIvNnnhTKq7l0lKHGqExcUNC%2BV585ku4uV%2BTRamaMow" htmlUrl="http://www.eoeandroid.com/forum-27-1.html" />
-<outline text="Android 开发资料共享" title="Android 开发资料共享" type="rss" xmlUrl="http://www.eoeandroid.com/forum.php?mod=rss&amp;fid=15&amp;auth=a7f0%2Bb6B4au36dzzVjpeId1xW%2BK3jf8HDpW0DIIZET0J9yt56jlKBDdIOzajEg" htmlUrl="http://www.eoeandroid.com/forum-15-1.html" />
-<outline text="Android 高级开发资料" title="Android 高级开发资料" type="rss" xmlUrl="http://www.eoeandroid.com/forum.php?mod=rss&amp;fid=93&amp;auth=b673ZjE6cRYhHMJUm7gedPAjok6IyDX50TzNh3L1huFSJJxanRYtnfL0sf4t7w" htmlUrl="http://www.eoeandroid.com/forum-93-1.html" />
-<outline text="Android Framework研究" title="Android Framework研究" type="rss" xmlUrl="http://www.eoeandroid.com/forum.php?mod=rss&amp;fid=54&amp;auth=bbf1HrOVzpKjEp4urpr5vamBs7ZdsSE%2BWOhu88VPmf8tUy2VyZfzfCl0YDxrOA" htmlUrl="http://www.eoeandroid.com/forum-54-1.html" />
-<outline text="Android 底层开发与源码研究" title="Android 底层开发与源码研究" type="rss" xmlUrl="http://www.eoeandroid.com/forum.php?mod=rss&amp;fid=48&amp;auth=2c277rdBUb2hM%2BU%2FQ6HVyHmKkpy8TZ%2FkW330bt8AXZWNDHMCkh4QECcTxEDlTw" htmlUrl="http://www.eoeandroid.com/forum-48-1.html" />
 <outline text="王宪明的android学习之旅" title="王宪明的android学习之旅" type="rss" xmlUrl="http://blog.csdn.net/wdaming1986/rss/list" htmlUrl="http://blog.csdn.net/wdaming1986" />
 <outline text="博客园_农民伯伯" title="博客园_农民伯伯" type="rss" xmlUrl="http://feed.cnblogs.com/blog/u/28619/rss" htmlUrl="" />
 <outline text="右撇子" title="右撇子" type="rss" xmlUrl="http://blog.csdn.net/feng88724/rss/list" htmlUrl="http://blog.csdn.net/feng88724" />
