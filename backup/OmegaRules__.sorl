@@ -3,6 +3,7 @@
 ; Date: 2016/3/30
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+*.g.co
 *.gstatic.com
 *.google.com
 *.gmail.com
