@@ -19,6 +19,7 @@
 *.disqus.com
 *.github.com
 *.facebook.net
+*.facebook.com
 *.google-analytics.com
 *.ajax.googleapis.com
 *.digg.com
@@ -35,7 +36,6 @@
 *.dropboxstatic.com
 *.robomongo.org
 *.bootstrapcdn.com
-*.s3.amazonaws.com
 *.android.com
 *.atom.io
 *.bintray.com
@@ -46,7 +46,7 @@
 *.chartbeat.net
 *.typekit.net
 *.genymotion.com
-*.github-cloud.s3.amazonaws.com
+*.amazonaws.com
 *.zhiwei.li
 *.long-jf.com
 *.dewen.io
@@ -111,7 +111,6 @@
 *.bbc.com
 *.voachinese.com
 pan.baidu.com
-*.amazonaws.com
 *.twrp.me
 *.githubapp.com
 *.blogger.com
