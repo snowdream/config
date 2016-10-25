@@ -76,6 +76,7 @@
 *.flattr.com
 *.anddev.org
 *.gradle.org
+*.bit.ly
 *.cdnjs.com
 *.jsperf.com
 *.byvoid.com
@@ -112,3 +113,5 @@
 pan.baidu.com
 *.amazonaws.com
 *.twrp.me
+*.githubapp.com
+*.blogger.com
